@@ -1,0 +1,23 @@
+{
+  "name": "hts221-rpi",
+  "version": "1.2.2",
+  "description": "",
+  "main": "read.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanluss31/HTS221-RPI.git"
+  },
+  "author": "juanluss31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanluss31/HTS221-RPI/issues"
+  },
+  "homepage": "https://github.com/juanluss31/HTS221-RPI#readme",
+  "dependencies": {
+    "hts221-sensor": "^1.1.1",
+    "thingspeakclient": "^0.4.0"
+  }
+}
